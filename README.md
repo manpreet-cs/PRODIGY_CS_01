@@ -10,8 +10,33 @@ This project implements Caesar Cipher encryption and decryption using Python.
 - Decrypt messages
 - User input support
 
+## How to Run
+
+```bash
+python caesar_cipher.py
+```
+
+### Example
+- Input:
+Plain text
+- Message: HELLO
+- Shift Value: 3
+- Output:
+Plain text
+- Encrypted Message: KHOOR
+- Decrypted Message: HELLO
+
+## Concept
+The Caesar Cipher works by shifting each letter in the message by a fixed number of positions in the alphabet.
+- Example with shift value 3:
+- Plain text
+- A → D
+- B → E
+- C → F
+
 ### Technology Used
 - Python
 
 ### Author
-Manpreet Kaur
+Manpreet Kaur, 
+Cyber Security Intern @ Prodigy InfoTech
